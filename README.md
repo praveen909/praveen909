@@ -1,4 +1,7 @@
-<h2 align="center">Hi 👋! My name is Praveen and I'm a Software Engineer from India</h2>
+<h1 align="center">Hi 👋! My name is Praveen</h1>
+
+<h2 align="center">Software Engineer</h2>
+
 
 ###
 
